@@ -11,5 +11,10 @@
 </ul>
 <h3>Check VladBB Fan Token on BscScan:</h3>
 <a href="https://bscscan.com/address/0x73096b1313e3c17990070fd40318b6af12839745">https://bscscan.com/address/0x73096b1313e3c17990070fd40318b6af12839745</a>
+<h3>Buy VBB token on Pancake DEX</h3>
+<a href="https://pancakeswap.finance/">https://pancakeswap.finance</a>
+<h3>Get free VBB token on my Twitter</h3>
+<a href="https://twitter.com/VladislavBaben2">@VladislavBaben2</a>
+
 
 
