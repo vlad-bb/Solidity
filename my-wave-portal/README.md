@@ -13,8 +13,9 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
-Site with Web3 app: https://waveportal-starter-project.vlad-bb.repl.co/
-Replit: https://replit.com/@vlad-bb/waveportal-starter-project?v=1
+[Site with Web3 app](https://waveportal-starter-project.vlad-bb.repl.co/)
+
+[Replit](https://replit.com/@vlad-bb/waveportal-starter-project?v=1)
 
 Remeber!
 If you change contract code 
